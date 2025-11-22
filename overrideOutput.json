@@ -1,0 +1,35 @@
+{
+    "Date": "09/29/2022 12:24:57 PM",
+    "Receipt No.": "21-200-000101",
+    "User": "wisam farraj",
+    "Order No.": "101",
+    "Items count": "4",
+    "TOTAL": "50.00",
+    "TOTAL_sign": "$",
+    "Cash": "50.00",
+    "Cash_sign": "$",
+    "Paid amount": "50.00",
+    "Paid amount_sign": "$",
+    "items": [
+        {
+            "name": "Cappuccino",
+            "qty": 1,
+            "price": 10.0
+        },
+        {
+            "name": "Espresso",
+            "qty": 1,
+            "price": 10.0
+        },
+        {
+            "name": "Frappccuino",
+            "qty": 2,
+            "price": 10.0
+        },
+        {
+            "name": "Mocha",
+            "qty": 1,
+            "price": 10.0
+        }
+    ]
+}
